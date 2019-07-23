@@ -1,2 +1,2 @@
 # Información
-Fichero para aprender a utilizar GIT
+Fichero para aprender a utilizar GIT modificando fichero
