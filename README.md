@@ -1,2 +1,2 @@
-# Información
-Fichero para aprender a utilizar GIT modificando fichero
+# Bienvenidos a mi proyecto
+Fichero de información del proyecto.
